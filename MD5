@@ -1,0 +1,17 @@
+f8d3aecd2d40b885de294b7e5d7484cb *DESCRIPTION
+e64c4263c4717c6d590bb2a528b6f9bf *NAMESPACE
+69ca61da89494bd0b7ff072ca45de7e8 *NEWS
+191c8b020eb761b6cdca02d3f8c2a48e *R/Qfunction.R
+7a01da2d44507f95eb8100696b97bc0d *R/eLNNpairedCov.R
+9ccf386779ce81e2e0b8f647cc1d67bd *R/eLNNpairedCovSEM.R
+81ba82f60e3fd478d662e1c6bd4e4606 *R/firstDerivatives_Qfunction.R
+dd4a2539204543590e2b53152ffcf948 *R/genExprSet2.R
+5dcf50debf8e032fbb71e1be5dbbe909 *R/genSimDat.R
+caad08bb7285271d00ec32e3f50281ef *R/getIniParaEst.R
+e40187eb2d8610105e3ad77d7c0041a6 *R/getMemberShip.R
+825cbb78397adfb4a94d6f9464985588 *R/lmFitPaired2.R
+22c3609aadb5d809c805eadb0b55611d *data/esDiff.rda
+2a1e4f61566e59f9a24758c3a7c1511a *man/eLNNpairedCov.Rd
+b08e44a41db59c61abeed606647ac026 *man/eLNNpairedCovSEM.Rd
+151d3333c82f0d34867ff639e54b2949 *man/esDiff.Rd
+3f4922ed8e92f0ba22acf5d4464f9ad4 *man/genSimDat.Rd

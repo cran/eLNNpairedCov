@@ -1,0 +1,40 @@
+export(
+  genSimDat,
+  eLNNpairedCov,
+  eLNNpairedCovSEM
+)
+
+importFrom(limma, lmFit, eBayes)
+
+importFrom(MASS,
+          ginv,
+          mvrnorm)
+
+importFrom(graphics,
+          hist,
+          legend,
+          lines,
+          plot,
+          title)
+
+importFrom(stats,
+          cor,
+          dnorm,
+          qqnorm,
+          sd,
+          t.test,
+          var,
+          wilcox.test)
+importFrom("stats", "pnorm", "qnorm")
+
+importFrom("stats", "runif")
+
+ importFrom("methods", "as", "new")
+  importFrom("stats", "p.adjust")
+
+importFrom("stats", "as.formula", "lm", "mad", "median",
+                "model.matrix", "optim", "rgamma", "rnorm")
+
+importFrom("parallel", "mclapply")
+
+import(Biobase)
